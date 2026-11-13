@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Si usas este libro interactivo en tu docencia o investigación, cítalo así."
+title: "Teorías de la comunicación: libro interactivo en 3D"
+type: software
+version: "1.0"
+date-released: "2026-11-13"
+url: "https://libro-teorias-comunicacion.vercel.app/"
+repository-code: "https://github.com/ViniciusCovas/libro-teorias-comunicacion"
+authors:
+  - family-names: Covas
+    given-names: Vinicius
+    orcid: "https://orcid.org/0000-0001-9948-2940"
+    affiliation: "Facultad de Comunicación, Universidad Anáhuac México"
+contact:
+  - name: "Human and Nonhuman Communication Lab y CICA, Universidad Anáhuac México"
